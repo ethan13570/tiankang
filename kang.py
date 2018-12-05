@@ -1,2 +1,3 @@
 a = 'tiankang'
 
+b = 'tiankang'
